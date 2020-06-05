@@ -1,4 +1,4 @@
-Addition
+Add
 Subtraction
 Multiplication
 Division
