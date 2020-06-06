@@ -3,4 +3,5 @@ Add
 Subtract
  2-digit subtract
 Multiplication
+  2-digit multiply
 Division
