@@ -1,8 +1,10 @@
 Add
-  2-digit add
+  2-digit addition
 Subtract
  2-digit subtract
 Multiplication
   2-digit multiply
+  3-digit multiply
 Division
   2-digit division
+  3-digit division
