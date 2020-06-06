@@ -5,3 +5,4 @@ Subtract
 Multiplication
   2-digit multiply
 Division
+  2-digit division
