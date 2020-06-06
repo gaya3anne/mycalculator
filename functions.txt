@@ -1,5 +1,5 @@
 Add
-  2-digit addition
+  2-digit add
   3-digit add
 Subtract
  2-digit subtract
